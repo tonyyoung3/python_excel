@@ -1,2 +1,2 @@
 # python_excel
-excel automation - mimic vlookup and filter
+excel automation - simulate vlookup and filter
